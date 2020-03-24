@@ -19,6 +19,17 @@ npm run build
 ```
 npm run lint
 ```
+# VueWeatherFromIp  
+**Yeet the Weather**  
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A program to get your external IP and find the weather based on that, anywhere in the world  
+
+**Resources used:**  
+Vue.js: (https://vuejs.org/)  
+Axios: (https://vuejs.org/)  
+
+**Apis used:**  
+Cloubflare trace: (https://www.cloudflare.com/cdn-cgi/trace)  
+Darksky Current conditions: (https://darksky.net/dev)  
+Ipstack Ip geo API: (https://ipstack.com/)  
+
