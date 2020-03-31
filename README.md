@@ -29,7 +29,7 @@ Vue.js: (https://vuejs.org/)
 Axios: (https://vuejs.org/)  
 
 **Apis used:**  
-Cloubflare trace: (https://www.cloudflare.com/cdn-cgi/trace)  
+Cloudflare trace: (https://www.cloudflare.com/cdn-cgi/trace)  
 Darksky Current conditions: (https://darksky.net/dev)  
 Ipstack Ip geo API: (https://ipstack.com/)  
 
